@@ -2,7 +2,7 @@
 
 ## About AimGod
 
-Aimlab is developed because of the fact that there is no FPS aiming training app on macOS. It is a light project designed for macOS users. You can train your aiming skills in AimGod using a mouse. Building with Unity, AimGod is a native Apple Silicon Application which can run at max fps on any Apple Silicon mac. 
+AimGod is developed because of the fact that there is no FPS aiming training app on macOS. It is a light project designed for macOS users. You can train your aiming skills in AimGod using a mouse. Building with Unity, AimGod is a native Apple Silicon Application which can run at max fps on any Apple Silicon mac. 
 
 ## Notes
 
