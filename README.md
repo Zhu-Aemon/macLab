@@ -12,3 +12,4 @@ AimGod is developed because of the fact that there is no FPS aiming training app
 
     If you are switching to mouse for FPS gaming on Windows but have been using macOS with a trackpad all your life, I bet this is extremely useful!
     
+3. Note that a Windows release is also available. (Just for fun lol...)
